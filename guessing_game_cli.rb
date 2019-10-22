@@ -18,5 +18,6 @@ def run_guessing_game
   if user_input == "exit"
     puts "Goodbye!"
   end
+end
 
 
